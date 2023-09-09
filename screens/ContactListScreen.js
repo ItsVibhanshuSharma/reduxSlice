@@ -40,7 +40,7 @@ export default function ContactListScreen() {
         onChangeText={handleChangeEmail}
       />
       <TextInput
-        placeholder="Enter a Number"
+        placeholder="Enter a Number s"
         value={number}
         onChangeText={handleChangeNumber}
       />
